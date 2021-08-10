@@ -1,0 +1,25 @@
+# 笔记
+
+​	一份日常编程学习的笔记库。好记性不如烂笔头，互利共勉!!!
+
+## 目录
+
+### C/C++
+
+- [C语言基础](https://gitee.com/featherwit0918/Notes/blob/main/C&C++/Directory.md)
+
+### Python
+
+- [Python基础](https://github.com/featherwit0918/Notes/blob/main/Python/Directory.md)
+
+### Golang
+
+- [Golang基础](https://github.com/featherwit0918/Notes/blob/main/Golang/Directory.md)
+
+### Git
+
+- [Git简介](https://github.com/featherwit0918/Notes/blob/main/Git/01_Git%E7%AE%80%E4%BB%8B.md)
+
+### 计算机基础
+
+- 计算机科学导论
