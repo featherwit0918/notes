@@ -6,7 +6,7 @@
 
 ### C/C++
 
-- [C语言基础](https://gitee.com/featherwit0918/Notes/blob/main/C&C++/Directory.md)
+- [C语言基础](https://github.com/featherwit0918/Notes/blob/main/C%26C%2B%2B/Directory.md)
 
 ### Python
 
@@ -22,4 +22,5 @@
 
 ### 计算机基础
 
-- 计算机科学导论
+- [计算机科学导论](https://github.com/featherwit0918/Notes/blob/main/Computer%20Fundamentals/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/Directory.md)
+
