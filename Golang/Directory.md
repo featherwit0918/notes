@@ -11,3 +11,8 @@
 - [Go基础之运算符](https://github.com/featherwit0918/Notes/blob/main/Golang/04_%E8%BF%90%E7%AE%97%E7%AC%A6.md)
 - [Go基础之流程控制](https://github.com/featherwit0918/Notes/blob/main/Golang/05_%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
 
+- [Go基础之数组](https://github.com/featherwit0918/Notes/blob/main/Golang/06_%E6%95%B0%E7%BB%84.md)
+- [Go基础之切片](https://github.com/featherwit0918/Notes/blob/main/Golang/07_%E5%88%87%E7%89%87.md)
+- [Go基础之map](https://github.com/featherwit0918/Notes/blob/main/Golang/08_map.md)
+- [Go基础之函数](https://github.com/featherwit0918/Notes/blob/main/Golang/09_%E5%87%BD%E6%95%B0.md)
+
