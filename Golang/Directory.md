@@ -16,3 +16,7 @@
 - [Go基础之map](https://github.com/featherwit0918/Notes/blob/main/Golang/08_map.md)
 - [Go基础之函数](https://github.com/featherwit0918/Notes/blob/main/Golang/09_%E5%87%BD%E6%95%B0.md)
 
+- [Go基础之指针](https://github.com/featherwit0918/Notes/blob/main/Golang/10_%E6%8C%87%E9%92%88.md)
+
+- [Go基础之结构体](https://github.com/featherwit0918/Notes/blob/main/Golang/11_%E7%BB%93%E6%9E%84%E4%BD%93.md)
+
