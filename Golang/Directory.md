@@ -20,3 +20,7 @@
 
 - [Go基础之结构体](https://github.com/featherwit0918/Notes/blob/main/Golang/11_%E7%BB%93%E6%9E%84%E4%BD%93.md)
 
+- [Go基础之包](https://github.com/featherwit0918/Notes/blob/main/Golang/12_%E5%8C%85.md)
+- [Go基础之接口](https://github.com/featherwit0918/Notes/blob/main/Golang/13_%E6%8E%A5%E5%8F%A3.md)
+- [Go基础之反射](https://github.com/featherwit0918/Notes/blob/main/Golang/14_%E5%8F%8D%E5%B0%84.md)
+
